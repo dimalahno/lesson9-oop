@@ -11,7 +11,7 @@ chemicals2 = Chemicals("Шампунь", 200, "Гигиеническое кос
 
 
 # Создаем пользователей
-customer = Customer(username="Dmitriy", email="dimalahno@rambler.ru", address="033 Russ Bur")
+customer = Customer(username="Dmitriy", email="dimalahno@rambler.ru", address="г.Астана")
 admin = Admin(username="root", email="dimalahno@rambler.ru", admin_level=5)
 
 # Создаем корзину покупок и добавляем товары
